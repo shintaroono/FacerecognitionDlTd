@@ -2,6 +2,7 @@
 
 ### outline ###
 try to create face recognition using deeplearning and touchdesiger.
+*just for my own private work repo under processing, so uploaded files are not full data.
 
   
 ### spec ###
