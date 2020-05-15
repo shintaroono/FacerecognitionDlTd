@@ -9,7 +9,7 @@ try to create face recognition using deeplearning and touchdesiger.
 
   
 ### reference ###
-https://github.com/ML-and-AI-repo/face_recognition
+https://github.com/ML-and-AI-repo/face_recognition  
 https://github.com/Ajasra/Spout-for-Python
 
 
