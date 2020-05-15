@@ -37,6 +37,7 @@ def main_pipeline(data):
     d = ImageDraw.Draw(pil_image)
 
     face_landmarks_list = face_recognition.face_landmarks(data)
+    # face_landmarks_list = face_recognition.face_landmarks(data, model="cnn")
 
     for face_landmarks in face_landmarks_list:
         for facial_feature in face_landmarks.keys():

@@ -1,4 +1,4 @@
-# SegmentationPytorchTd
+# FacerecognitionDlTd
 
 ### outline ###
 try to create face recognition using deeplearning and touchdesiger.
@@ -14,3 +14,4 @@ https://github.com/Ajasra/Spout-for-Python
 
 
 ### sample ###
+https://youtu.be/2Cmrm0i13s4
