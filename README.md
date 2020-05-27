@@ -9,6 +9,7 @@ https://youtu.be/2Cmrm0i13s4
   
 ### spec ###
 - windows 10
+- touchdesigner 2020.20625
 
 ### reference ###
 https://github.com/ML-and-AI-repo/face_recognition  
